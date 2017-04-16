@@ -1,4 +1,5 @@
-ng new TestApp --skip-git --directory 'testapp'
+ng new testapp --skip-git --directory testapp --style=scss
+
 
 # TestApp
 
